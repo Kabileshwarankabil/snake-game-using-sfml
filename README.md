@@ -1,5 +1,6 @@
 # Snake Game in SFML
-
+![alt text](screenshots/snakegame-screenshot1.png)
+![alt text](screenshots/snakegame-screenshot2.png)
 
 ## Overview
 This repository contains a classic Snake game implemented in C++ using the SFML (Simple and Fast Multimedia Library). The game showcases fundamental game development concepts such as game loops, event handling, and rendering.
