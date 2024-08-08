@@ -15,7 +15,9 @@ This repository contains a classic Snake game implemented in C++ using the SFML 
 
 ### Prerequisites
 - **C++ Compiler**: Ensure you have a C++ compiler installed (e.g., GCC, Clang, MSVC).
+  https://sourceforge.net/projects/gcc-win64/
 - **SFML Library**: Download and install the SFML library from SFML's official website.
+https://www.sfml-dev.org/download/sfml/2.6.1/
 
 ## How to Play
 - Objective: Guide the snake to eat food and grow longer.
@@ -26,8 +28,9 @@ This repository contains a classic Snake game implemented in C++ using the SFML 
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request
 
 ## Acknowledgments
-SFML: Thanks to the SFML team for providing an excellent multimedia library.
-Inspiration: Inspired by the classic Snake game.
+- SFML: Thanks to the SFML team for providing an excellent multimedia library.
+- Inspiration: Inspired by the classic Snake game. 
+
 
 ## Contact
 For any questions or feedback, feel free to reach out to me at kabileshwaran1896@gmail.com
